@@ -6,10 +6,7 @@ You will use Twillio's API to handle sending text messages from your Rails appli
 
 
 ## Get Started
-1. Create a new rails app in this directory using the following command:
-```
-$ rails new .
-```
+1. Create a new rails app in this directory. 
 
 1. Sign up for a Twillio account: https://www.twilio.com/
 
@@ -40,4 +37,4 @@ This part gets tricky!
 
 
 ### Optional Enhancements
-- Use Giphy's API to generate a random gif, based on a specific search term, to send instead. 
+- Use Giphy's API to generate a random gif, based on a specific search term, to send instead.
