@@ -23,15 +23,22 @@ $ rails new .
 - Make seed data and test that it all works as expected
 
 **Wave 2:** Setup the API
+API users should be able to query:
+- All News articles
+- A Specific News Article, by ID
+- All News Articles by Category
+- All News Articles by an Author
 
-**Wave 3:** Deploy to Heroku
+**Wave 3:** Deploy to Heroku!
 
 **Wave 4:** Create documentation for your API
 In the README (you can overwrite this one), highlight all the functionality of your API with examples on how to use it.
 
 ### Optional Enhancements
-- Require users of your app to register for a token,
+
 - Add the following resources to extend the functionality of your API. Allow users to sign up as a and favorite articles using a POST method.
   - Tags
   - Readers
   - Favorites
+
+- Require users of your app to register for a token
